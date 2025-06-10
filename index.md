@@ -22,7 +22,7 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 
 ## News
 - [*2025.06*]: &nbsp;🎉🎉 I serve as a Guest Editor for Energy Engineering with a special issue 'Operation and Control of Grid-connected New Energy and Emerging Loads'.
-  <a href='https://www.techscience.com/energy/special_detail/grid-connected_new_energy' target="_blank">[Link]</a> 
+  <a href='https://www.techscience.com/energy/special_detail/grid-connected_new_energy' target="_blank">[Link]</a>
 - [*2025.06*]: &nbsp;🎉🎉 I have been nominated as an Associate Editor for the IEEE Canadian Journal of Electrical and Computer Engineering (IEEE CJECE). <a href='http://journal.ieee.ca/en/editorial/assoceds/' target="_blank">[Link]</a>
 - [*2025.05*]: &nbsp;🎉🎉 Our book chapter 'Chapter 3: Economic Dispatch of Wind and Thermal Bundled Power Systems' has been published in Power and Energy Resources: Modelling and Optimization by Springer Nature in 2025. <a href='https://link.springer.com/book/10.1007/978-981-96-2612-0' target="_blank">[Link]</a>
 - [*2025.05*]: &nbsp;🎉🎉 Our book chapter 'Chapter 9: Distribution Network Reconfiguration' has been published in Power and Energy Resources: Modelling and Optimization by Springer Nature in 2025. <a href='https://link.springer.com/book/10.1007/978-981-96-2612-0' target="_blank">[Link]</a>
