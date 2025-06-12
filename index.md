@@ -9,7 +9,7 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/honolulufishing/Homepage/main/2.png" align="left" width="130">  
 <font size=5 ><em>Chao LEI</em></font>  
   <br>  
-<br><font size=4 >Research Fellow</font>
+<br><font size=4 >Ph.D, Research Fellow</font>
 <br>Department of Electrical and Computer Engineering 
 <br>The University of British Columbia, Vancouver, BC, Canada
 <br>Email: <a href="mailto:chaolei@ece.ubc.ca">chaolei@ece.ubc.ca</a>
