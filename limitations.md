@@ -33,6 +33,5 @@ author_profile: true
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, "A Consensus ADMM-based Differentially Private Reconfiguration Approach for Multi-Agent Active Distribution Networks," **IEEE Transactions on Energy Markets, Policy and Regulation**, 2024 (Under Review).
 - **C. Lei**, S. Bu, Q. Wang and D. Srinivasan, "Aging-Aware Vehicle Battery Dispatch for Aggregators: A Digital-Twin-enabled Rolling Optimization Framework," **IEEE Transactions on Power Systems**, 2024 (working paper).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18n6EttrVsip4UE6Ohat6MkdOlIT7JC4&ehbc=2E312F" width="640" height="480"></iframe>
-
-  
+## Travelogue
+<iframe src="https://www.google.com/maps/d/embed?mid=18n6EttrVsip4UE6Ohat6MkdOlIT7JC4&ehbc=2E312F" width="640" height="300"></iframe>
