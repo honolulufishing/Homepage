@@ -5,12 +5,12 @@ excerpt: "Publications"
 author_profile: true
 ---
 ## Research Groups
-UBC Power and Energy Systems Research Group (Prof. Y. Christine Chen)
-KTH Royal Institute of Technology Reliability Centered Asset Management Lab (Prof. Lina Bertling Tjernberg)
-NUS Centre for Green Energy Management & Smart Grid (Prof. Dipti Srinivasan)
-Maryland Energy Innovation Institute (Prof. Michael Pecht)
-Center for Advanced Life Cycle Engineering (CALCE, Prof. Michael Pecht)
-Renewable Integration and Smartgrid Application (RISA) Research Lab (Prof. Siqi Bu)
+- UBC Power and Energy Systems Research Group (Prof. Y. Christine Chen)
+- KTH Royal Institute of Technology Reliability Centered Asset Management Lab (Prof. Lina Bertling Tjernberg)
+- NUS Centre for Green Energy Management & Smart Grid (Prof. Dipti Srinivasan)
+- UM Maryland Energy Innovation Institute (Prof. Michael Pecht)
+- UM Center for Advanced Life Cycle Engineering (CALCE, Prof. Michael Pecht)
+- PolyU Renewable Integration and Smartgrid Application (RISA) Research Lab (Prof. Siqi Bu)
 
 ## Group Members
 - <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/group.png' target="_blank">[Group Members]</a>
