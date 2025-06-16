@@ -40,7 +40,7 @@ Research Highlights with Representative Publications and Patents
 - [[Research Highlights]](research.md){:target="_blank"}
 
 Research Groups
-- [[Research Groups]](group.md){:target="_blank"}
+- [[Research Groups]](group_index.md){:target="_blank"}
   
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems(TPWRS)
@@ -79,5 +79,4 @@ Journal Reviewer (Selected)
 
 ## Download 
 useful slides for talks/workshops
-- <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[2025-06-16]</a>
 - <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
