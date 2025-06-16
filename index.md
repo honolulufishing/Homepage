@@ -39,9 +39,9 @@ I currently a research fellow working with Prof. <a href='https://ece.ubc.ca/y-c
 Research Highlights with Representative Publications and Patents
 - [[Research Highlights]](research.md){:target="_blank"}
 
-Research Group Members
-- <a href='https://raw.githubusercontent.com/honolulufishing/Homepage/main/group.png' target="_blank">[Group Members]</a>
-
+Research Groups
+- [[Research Groups]](group.md){:target="_blank"}
+  
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems(TPWRS)
 - IEEE Trans. on Smart Grid(TSG)
