@@ -12,8 +12,7 @@ author_profile: true
 - KTH Royal Institute of Technology Reliability Centered Asset Management Lab (RCAM, Prof. Lina Bertling Tjernberg)
 - NUS Centre for Green Energy Management & Smart Grid (GEMS, Prof. Dipti Srinivasan)
 
-## Travelogue
-<iframe src="https://www.google.com/maps/d/embed?mid=18n6EttrVsip4UE6Ohat6MkdOlIT7JC4&ehbc=2E312F" width="640" height="300"></iframe>
-
 ## Visitors
-<iframe type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=ZTOd4LckulvSmQP3J9MLcrivOfRpFn1X2wBfmYuxabA&cl=ffffff&w=a" width="640" height="300"></iframe>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=ZTOd4LckulvSmQP3J9MLcrivOfRpFn1X2wBfmYuxabA"></script>
+
+
