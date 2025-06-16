@@ -79,5 +79,5 @@ Journal Reviewer (Selected)
 
 ## Download 
 useful slides for talks/workshops
+- <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[2025-06-16]</a>
 - <a href='https://github.com/honolulufishing/honolulufishing/blob/main/Report_Chao_cqu.pptx' target="_blank">[Report]</a>
-
