@@ -10,4 +10,4 @@ author_profile: true
 
 
 ## Travelogue
-<iframe src="https://www.google.com/maps/d/embed?mid=18n6EttrVsip4UE6Ohat6MkdOlIT7JC4&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=18n6EttrVsip4UE6Ohat6MkdOlIT7JC4&ehbc=2E312F" width="640" height="380"></iframe>
