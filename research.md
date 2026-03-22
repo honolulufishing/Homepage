@@ -23,7 +23,7 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 - **C. Lei**, S. Bu, J. Zhong, Q. Chen and Q. Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” **IEEE Transactions on Power Systems**, vol. 38, no. 6, pp. 5926-5929, Nov. 2023.
 - **C. Lei**, N. Wei, Q. Wang and S. Bu, “Load Transfer Optimization with Graph Characterizations on Multiple Time-Scales for Multi-Voltage Distribution Networks Against Overload Cascades,” **IEEE Transactions on Power Delivery**, vol. 40, no. 4, pp. 1847-1862, Aug. 2025
 
-## <code style="color : blue">Device Level: COMSOL Simulation-enabled Grid-Edge Optimization</code> 
+## <code style="color : blue">Device Level: Grid-Edge Optimization with High-Fidelity COMSOL Simulation</code> 
 - Underground Cable: `Degraded Underground XLPE Cable`, `Life Cycle Prediction for Underground Cables`
 - Battery Pack: `Electrochemical-Thermal Coupled Modeling`
 - Electric Circuit Breaker: `Arc Simulation`
