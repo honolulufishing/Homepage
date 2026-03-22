@@ -59,4 +59,4 @@ I specialize in Advanced Optimization for Power System Flexibility, Cyber-Physic
 > ***Representative References***
 - **C. Lei**, S. Bu, Q. Wang and L. Liang, “Observability Defense-Constrained Distribution Network Reconfiguration for Cyber-Physical Security Enhancement,” **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 2379-2382, March 2024.
 - **C. Lei**, S. Bu, Q. Chen, Q. Wang and D. Srinivasan, “Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm,” **IEEE Transactions on Smart Grid**, vol. 15, no. 6, pp. 6175-6178, Nov. 2024.
-- **C. Lei**, Q. Li, S.Bu and M. Pecht, “An ADMM-based Battery Dispatch Optimization for Electric Vehicle Aggregators with Input-Discriminative Local Differential Privacy Budgets,” **IEEE Transactions on Transportation Electrification**, 2026 (Early Access).
+- **C. Lei**, Q. Li, S.Bu and M. Pecht, “An ADMM-based Battery Dispatch Optimization for Electric Vehicle Aggregators with Input-Discriminative Local Differential Privacy Budgets,” **IEEE Transactions on Transportation Electrification**, 2026 (Early Access).
