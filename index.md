@@ -46,7 +46,7 @@ Research Highlights with Representative Publications and Patents
 - [[Research Highlights]](research.md){:target="_blank"}
 
 Research Groups
-- [[Research Groups]](group_index.md){:target="_blank"}
+- [[Research Groups]]
   
 Journal Reviewer (Selected)
 - IEEE Trans. on Power Systems(TPWRS)
